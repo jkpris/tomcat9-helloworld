@@ -24,6 +24,6 @@ deploy:
   threads: 2
   delay: 15
   next: 15
-  download: false
+  download: true
   random : true
   nano : 87
