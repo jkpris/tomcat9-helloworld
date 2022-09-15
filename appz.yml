@@ -27,4 +27,4 @@ deploy:
   next: 15
   download: true
   random : true
-  nano : 89
+  nano : 90
