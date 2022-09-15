@@ -78,7 +78,7 @@
             <div class="row">
                 <div>
                     <h1 style="color:#DAA520;"><center>AppZ Demo</center></h1>
-                    <h2><center>Appz Fully Automated Multi-Cloud Management Platform</center></h2>
+                    <h2><center>Demo of Fully Automated Multi-Cloud Management Platform</center></h2>
                 </div>
             </div>
 
