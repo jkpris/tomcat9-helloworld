@@ -91,7 +91,7 @@
             <div class="row">
                 <div>
                     <h1 style="color:#DAA520;"><center>APP-Z DEMO</center></h1>
-                    <p><center>Fully Automated Hybrid Cloud Platform</center></p>
+                    <p><center>Appz Fully Automated Hybrid Cloud Platform</center></p>
                 </div>
             </div>
 
