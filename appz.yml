@@ -15,12 +15,14 @@ deploy:
   replicas: 2
   port: 
    - 8080
+   - 80
   strategy: rolling
+  ready_seconds: 10
   
   properties:
   MOD_CLUSTER: modcluster-1-3:6666
   title: Demo App HelloWorld - Basic-AppZ 2.0.3 
-  head_color : green
+  head_color : Blue
   ##site_url: https://hellotomcat.appzclient.com
   threads: 2
   delay: 15
