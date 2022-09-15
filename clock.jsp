@@ -178,7 +178,7 @@
                 </div>
 
                 <div class="column-50-blue" style="text-align:center; height:125px">
-                    <h4 style="color:#e1e1e1"><center>Application Server</center></h4>
+                    <h4 style="color:#e1e1e1"><center>Appz Application Server</center></h4>
                     <h2 style="color:white;"><center><%= application.getServerInfo().indexOf('$') > 0 ? application.getServerInfo().split("/")[0] : application.getServerInfo() %></center></h2>
                 </div>
                 <div class="column">
