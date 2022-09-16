@@ -77,7 +77,7 @@
     <body>
             <div class="row">
                 <div>
-                    <h1 style="color:#FF0000;"><center>AppZ</center></h1>
+                    <h1 style="color:#DAA520;"><center>AppZ</center></h1>
                     <h2><center>The Fully Automated Multi-Cloud Management Platform</center></h2>
                     <%-- <h3 style="color:#DAA520;"><center>Demo</center></h3> --%>
                 </div>
